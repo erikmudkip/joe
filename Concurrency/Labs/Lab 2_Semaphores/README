@@ -1,0 +1,54 @@
+Project Licence:
+
+MIT License
+
+Copyright (c) [year] [fullname]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+Authors of Project:
+
+Erik Prananta
+
+
+How to install project:
+
+1. run makefile by typing Make in CMD
+2. execute ./main
+
+List of any required Libraries, platform issues, etc.:
+
+1. vector Library
+2. threading Library
+3. Semaphore Library
+
+TO DO section listing items that need to be completed (errors, missing features etc.):
+
+1. None
+
+List of files and what they contain:
+
+1. main.cpp - file containing the main executable
+2. Semaphore.cpp - file containing Semaphore class
+3. makefile - File used to compile the program
+
+Any other relevent information:
+
+Demonstrate how sempahore works
